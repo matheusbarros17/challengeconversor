@@ -7,7 +7,7 @@ public class PrincipalConversor {
         System.out.println("Seja bem-vindo/a ao Conversor de Moedas");
 
         System.out.println("\n1) Dólar =>> Peso argentino" +
-                "\n2) Peso argetino ==> Dólar" +
+                "\n2) Peso argentino ==> Dólar" +
                 "\n3) Dólar =>> Real brasileiro" +
                 "\n4) Real brasileiro ==> Dólar" +
                 "\n5) Dólar ==> Peso colombiano" +
