@@ -1,4 +1,4 @@
 package br.com.alura.challenge.modelo;
 
-public class Moeda {
+public record Moeda(Double valor) {
 }
